@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Quan",
+        "Claims": [
+            { "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier", "Value": "quan" },
+            { "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name", "Value": "Quan" },
+            { "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress", "Value": "quan@quan.com" },
+            { "Type": "http://schemas.microsoft.com/accesscontrolservice/2010/07/claims/identityprovider", "Value": "EmbeddedSts" }
+        ]
+    },
+    {
+        "Name": "Vince",
+        "Claims": [
+            { "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier", "Value": "vince" },
+            { "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name", "Value": "Vince" },
+            { "Type": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress", "Value": "vince@vince.com" },
+            { "Type": "http://schemas.microsoft.com/accesscontrolservice/2010/07/claims/identityprovider", "Value": "EmbeddedSts" }
+
+        ]
+
+    }
+]
